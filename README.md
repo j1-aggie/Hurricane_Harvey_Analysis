@@ -10,7 +10,11 @@ GitHub
   git@github.com:j1-aggie/Group_Project_1.git
 
 Outline
- 
+ 1. Finalize and Approval of project
+ 2. Collect data from data sources
+ 3. Design Code
+ 4. Anaylze and Formulate Conclusions
+ 5. Presentation Ready
 
 Questions
   
@@ -33,4 +37,5 @@ DataSets Sourcing
   https://open.nasa.gov/open-data/
   
 Tasks
-  
+
+Propose additional meeting to set tasks per member after approval.

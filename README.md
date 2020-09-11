@@ -1,5 +1,5 @@
-# Salinity and The Oceans Currents
-![image](https://user-images.githubusercontent.com/66078772/92844025-03fb9d00-f3ab-11ea-90cd-df6a12f105d3.png)
+# PyStorm - Anaylsis of Katrina
+
 
 
 Team Members
@@ -11,6 +11,7 @@ GitHub
 
 Outline
  1. Finalize and Approval of project
+    a. submit to instructors
  2. Collect data from data sources
  3. Design Code
  4. Anaylze and Formulate Conclusions
@@ -18,24 +19,20 @@ Outline
 
 Questions
   
-  1. Why are some areas of the world's oceans warmer than others? saltier than others?
-  2. How might the sea surface temperature and salinity data look different in throughout the year?
-  3. How does temperature affect salinity in the ocean? 
-  4. How does temperature vary by latitude? Why?
-  5. What processes change the salinity of the seawater?
-  6. How does the salinity vary with depth? 
+  1. Did water temperature affect the intensity of Hurricane Katrina?
+  2. Did water salinity effect the intensity of Hurricane Katrina?
+  3. Did ambient air temperature affect the intensity of Hurricane Katrina? 
+  4. Did water temperature affect the final path of Hurricane Katrina?
+  5. 
   
 DataSets Sourcing 
+
+  http://data.gcoos.org/waf.php
+  GMaps API from class, 
+  https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf
   
-  Google Maps from class, 
-  Hurricane Maps Data Sources?, 
-  https://mynasadata.larc.nasa.gov/basic-page/asking-questions-and-defining-problems-using-mnd, 
-  https://mynasadata.larc.nasa.gov/all-geosphere-esde-collections,
-  https://mynasadata.larc.nasa.gov/phenomenon/ocean-circulation-patterns,
-  https://mynasadata.larc.nasa.gov/mini-lesson/historical-ocean-salinity-data-annual-mean-data,
-  https://mynasadata.larc.nasa.gov/basic-page/import-data-google-sheets-using-earth-system-data-explorer,
-  https://open.nasa.gov/open-data/
+  
   
 Tasks
 
-Propose additional meeting to set tasks per member after approval.
+To start, each team member will do the front part of the panda sheet by importing the csv files and api link.  Each team member will work through the first part of getting the project started then we will divide up task to complete the graphs to answer the questions. 

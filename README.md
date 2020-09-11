@@ -1,8 +1,9 @@
-# PyStorm - Analysis of Katrina
+# PyStorm - Analysis of Katrina's Path
 
-
+![image](https://user-images.githubusercontent.com/66078772/92975786-b20c5300-f44e-11ea-92cf-0eff91a35130.png)
 
 Team Members
+
   Reza Abasaltian, Rob Pascarella, Vincent Adams, Jeremy Jones, Miriam AlGhadi
 
 GitHub
@@ -37,4 +38,4 @@ DataSets Sourcing
   
 Tasks
 
-To start, each team member will do the front part of the panda sheet by importing the csv files and api link.  Each team member will work through the first part of getting the project started then we will divide up task to complete the graphs to answer the questions. 
+To start, each team member will do the front part of the panda sheet by importing the csv files and api link.  Each team member will work through the first part of getting the project started then we will divide up task to complete the graphs and to answer the proposed questions. 

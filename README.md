@@ -23,7 +23,8 @@ Questions
   2. Did water salinity effect the intensity of Hurricane Katrina?
   3. Did ambient air temperature affect the intensity of Hurricane Katrina? 
   4. Did water temperature affect the final path of Hurricane Katrina?
-  5. 
+  5. Did pressure affect the intensity of Hurricane Katrina?
+  
   
 DataSets Sourcing 
 

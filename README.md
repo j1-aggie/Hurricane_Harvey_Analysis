@@ -11,6 +11,7 @@ GitHub
 
 Outline
  1. Finalize and Approval of project
+    
     a. submit to instructors
  2. Collect data from data sources
  3. Design Code

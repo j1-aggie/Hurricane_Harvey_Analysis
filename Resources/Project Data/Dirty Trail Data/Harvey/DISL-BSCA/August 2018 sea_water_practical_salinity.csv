@@ -1,0 +1,19 @@
+owner,sensor,date,latitude,longitude,vertical_datum,sea_water_practical_salinity,qcFlag 
+DISL,ioos:station:DISL:BSCA:1,2018-08-07T21:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-18T11:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-18T12:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-19T21:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-20T11:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-20T19:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-21T10:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-24T10:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-24T11:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-24T12:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-24T15:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-24T15:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-28T10:30:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-29T04:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-29T05:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+DISL,ioos:station:DISL:BSCA:1,2018-08-29T17:00:00Z,30.3288,-87.8293,0.0,0.0,1114422 
+ 
+DISCLAIMER: The Gulf of Mexico Coastal and Ocean Observing (GCOOS) Data Portal aggregates data from the regional data providers for the convenience of all data users. Data published on this website should not be used for navigation or certain other uses as we cannot guarantee data accuracy or availability. The data and delivery services are provided 'as is' without warranty of any kind. Data Source: Gulf of Mexico Coastal Ocean Observing System Data Portal (http://data.gcoos.org/) 

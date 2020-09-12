@@ -16,7 +16,7 @@ Outline
     a. submit to instructors
  2. Collect data from data sources
  3. Design Code
- 4. Anaylze and Formulate Conclusions
+ 4. Analyze and Formulate Conclusions
  5. Presentation Ready
 
 Questions
@@ -33,9 +33,12 @@ Questions
 DataSets Sourcing 
 
   http://data.gcoos.org/waf.php,
-  GMaps API from class, 
-  https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf
   
+  GMaps API from class, 
+  
+  https://www.aoml.noaa.gov/hrd/Storm_pages/harvey2017/harvey.trak
+  
+  https://www.aoml.noaa.gov/hrd/Storm_pages/harvey2017/mission.html
   
   
 Tasks

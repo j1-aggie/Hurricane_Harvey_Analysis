@@ -21,11 +21,11 @@ Outline
 
 Questions
   
-  1. Did water temperature affect the intensity of Hurricane Katrina?
-  2. Did water salinity effect the intensity of Hurricane Katrina?
-  3. Did ambient air temperature affect the intensity of Hurricane Katrina? 
-  4. Did water temperature affect the final path of Hurricane Katrina?
-  5. Did pressure affect the intensity of Hurricane Katrina?
+  1. Did water temperature affect the intensity of Hurricane Harvery?
+  2. Did water salinity effect the intensity of Hurricane Harvery?
+  3. Did ambient air temperature affect the intensity of Hurricane Harvery? 
+  4. Did water temperature affect the final path of Hurricane Harvery?
+  5. Did pressure affect the intensity of Hurricane Harvery?
   
   
 DataSets Sourcing 

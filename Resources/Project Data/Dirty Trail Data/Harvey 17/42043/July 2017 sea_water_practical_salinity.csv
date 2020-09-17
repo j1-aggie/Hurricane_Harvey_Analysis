@@ -1,0 +1,2 @@
+owner,sensor,date,latitude,longitude,vertical_datum,sea_water_practical_salinity,qcFlag 
+TABS,ioos:station:wmo:42043:1,2017-07-07T00:00:00Z,28.9818,-94.9186,,0,11111222

@@ -1,0 +1,4 @@
+owner,sensor,date,latitude,longitude,vertical_datum,sea_water_practical_salinity,qcFlag 
+TABS,ioos:station:wmo:42049:1,2017-09-12T18:00:00Z,28.3507,-96.0058,2.0,23.606,11111222 
+ 
+DISCLAIMER: The Gulf of Mexico Coastal and Ocean Observing (GCOOS) Data Portal aggregates data from the regional data providers for the convenience of all data users. Data published on this website should not be used for navigation or certain other uses as we cannot guarantee data accuracy or availability. The data and delivery services are provided 'as is' without warranty of any kind. Data Source: Gulf of Mexico Coastal Ocean Observing System Data Portal (http://data.gcoos.org/) 

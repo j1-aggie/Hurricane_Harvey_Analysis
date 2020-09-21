@@ -27,9 +27,9 @@ What attribute below contributes the most to the intensity of the Hurricane base
     a. Did water temperature affect the intensity of Hurricane Harvery?<br />
     b. Did water salinity effect the intensity of Hurricane Harvery?<br />
     c. Did ambient air temperature affect the intensity of Hurricane Harvery?<br />
-    d. Did pressure affect the intensity of Hurricane Harvery?<br />
+    d. Did air pressure affect the intensity of Hurricane Harvery?<br />
  
-Initial null hypothesis (H0) is that air temperature is the most significant attribute unless our study proves otherwise.  
+Initial null hypothesis (H0) is that sea water temperature is the most significant attribute unless our study proves otherwise.  
 
 DataSets Sourcing 
 

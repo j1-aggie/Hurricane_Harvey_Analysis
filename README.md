@@ -11,18 +11,14 @@ GitHub
   git@github.com:j1-aggie/Group_Project_1.git
 
 Outline
- 1. Finalize and submit for approval of project
-    
+ 1. Finalize and submit for approval of project<br />
     a. submit to instructors
- 2. Collect data from data sources
- 
-    a. clean data and put in a format that is usable
- 3. Design Code
- 
- 4. Analyze and Formulate Conclusions
- 
-    a. go through as a team and formulate the conclusions that can be drawn from the analysis.
- 5. Presentation Ready
+ 2. Collect data from data sources<br />
+     a. clean data and put in a format that is usable
+ 3. Design Code<br />
+ 4. Analyze and Formulate Conclusions<br />
+     a. go through as a team and formulate the conclusions that can be drawn from the analysis.
+ 5. Presentation Ready<br />
     a. go through as a team and make power point and then decide presentation 
 
 Questions:

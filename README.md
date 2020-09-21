@@ -1,4 +1,4 @@
-# PyStorm - Analysis of Harvey's Path
+# PyStorm - Analysis of Harvey's Intensity
 
 ![image](https://user-images.githubusercontent.com/66078772/93001484-e89ca900-f4f4-11ea-9d40-eaaf7ec9ce3d.png)
 
@@ -25,17 +25,16 @@ Outline
  5. Presentation Ready
     a. go through as a team and make power point and then decide presentation 
 
-Questions
-  
-  1. What factor below contributes the most to the intensity of the Hurricane based on P-value analysis     
+Questions:
+
+What attribute below contributes the most to the intensity of the Hurricane based on P-value analysis:     
     a. Did water temperature affect the intensity of Hurricane Harvery?
     b. Did water salinity effect the intensity of Hurricane Harvery?
     c. Did ambient air temperature affect the intensity of Hurricane Harvery?  
     d. Did pressure affect the intensity of Hurricane Harvery?
-  
-  2. What factor contributes most to the final path of the Hurricane based on P-value analysis
-    a. Did water temperature affect the final path of Hurricane Harvery?
-  
+ 
+Initial null hypothesis (H0) is that air temperature is the most significant attribute unless our study proves otherwise.  
+
 DataSets Sourcing 
 
   http://data.gcoos.org/waf.php,

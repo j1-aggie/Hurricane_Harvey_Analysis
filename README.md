@@ -1,4 +1,4 @@
-# PyStorm - Analysis of Harvey's Path
+# PyStorm - Analysis of Harvey's Intensity
 
 ![image](https://user-images.githubusercontent.com/66078772/93001484-e89ca900-f4f4-11ea-9d40-eaaf7ec9ce3d.png)
 
@@ -11,31 +11,26 @@ GitHub
   git@github.com:j1-aggie/Group_Project_1.git
 
 Outline
- 1. Finalize and submit for approval of project
-    
+ 1. Finalize and submit for approval of project<br />
     a. submit to instructors
- 2. Collect data from data sources
- 
-    a. clean data and put in a format that is usable
- 3. Design Code
- 
- 4. Analyze and Formulate Conclusions
- 
-    a. go through as a team and formulate the conclusions that can be drawn from the analysis.
- 5. Presentation Ready
+ 2. Collect data from data sources<br />
+     a. clean data and put in a format that is usable
+ 3. Design Code<br />
+ 4. Analyze and Formulate Conclusions<br />
+     a. go through as a team and formulate the conclusions that can be drawn from the analysis.
+ 5. Presentation Ready<br />
     a. go through as a team and make power point and then decide presentation 
 
-Questions
-  
-  1. What factor below contributes the most to the intensity of the Hurricane based on P-value analysis     
-    a. Did water temperature affect the intensity of Hurricane Harvery?
-    b. Did water salinity effect the intensity of Hurricane Harvery?
-    c. Did ambient air temperature affect the intensity of Hurricane Harvery?  
-    d. Did pressure affect the intensity of Hurricane Harvery?
-  
-  2. What factor contributes most to the final path of the Hurricane based on P-value analysis
-    a. Did water temperature affect the final path of Hurricane Harvery?
-  
+Questions:
+
+What attribute below contributes the most to the intensity of the Hurricane based on P-value analysis:     
+    a. Did water temperature affect the intensity of Hurricane Harvery?<br />
+    b. Did water salinity effect the intensity of Hurricane Harvery?<br />
+    c. Did ambient air temperature affect the intensity of Hurricane Harvery?<br />
+    d. Did air pressure affect the intensity of Hurricane Harvery?<br />
+ 
+Initial null hypothesis (H0) is that sea water temperature is the most significant attribute unless our study proves otherwise.  
+
 DataSets Sourcing 
 
   http://data.gcoos.org/waf.php,

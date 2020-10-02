@@ -4,7 +4,7 @@
 
 Team Members
 
-  Reza Abasaltian, Rob Pascarella, Vincent Adams, Jeremy Jones, Miriam AlGhadi
+  Reza Abasaltian, Rob Pascarella, Vincent Adams, Jeremy Jones
 
 GitHub
 
